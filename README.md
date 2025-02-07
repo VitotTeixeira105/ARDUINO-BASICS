@@ -16,6 +16,10 @@ This project demonstrates how to blink an LED using an Arduino. The LED connecte
 - Connect the negative leg (cathode) of the LED to one end of a 220Ω resistor.
 - Connect the other end of the resistor to GND (ground) on the Arduino.
 
+![blinkled0](images/blinkLED.jpg)
+![blinkled1](images/blinkLED2.jpg)
+![blinkled2](images/blinkLED3.jpg)
+
 ### Code
 ```cpp
 // VARIABLE/CONSTANT DECLARATION
